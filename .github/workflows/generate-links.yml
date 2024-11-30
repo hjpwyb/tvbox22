@@ -20,17 +20,26 @@ jobs:
           # 使用 GitHub API 获取文件列表
           curl -s "https://api.github.com/repos/hjpwyb/tvbox22/contents?ref=main" | jq '[.[] | select(.name | test("\\.txt$|\\.json$")) | {name: .name, url: .download_url}]' > file_urls.json
 
-      - name: Create all.json with Share Links
+      - name: Update URLs in the File List
         run: |
-          # 创建 all.json 文件，格式为所需的结构
-          echo '{"urls":' > all.json
-          cat file_urls.json >> all.json
-          echo '}' >> all.json
+          # 读取 file_urls.json，并替换所有url中的 https://raw.githubusercontent.com 或者任何前缀，统一替换为 https://ghp.ci
+          jq '{
+            "urls": [
+              .[] | {
+                "name": .name | sub("\\.txt$|\\.json$"; ""),
+                "url": (if .url | test("https://raw.githubusercontent.com") then
+                          "https://ghp.ci/" + (.url | sub("^(https?://[^/]+)?https://raw.githubusercontent.com/"; "https://raw.githubusercontent.com/"))
+                        else
+                          .url
+                        end)
+              }
+            ]
+          }' file_urls.json > all.json
 
       - name: Commit and Push all.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add all.json
-          git commit -m "Generate all.json with share links for TXT and JSON files" || echo "No changes to commit"
+          git commit -m "Generate all.json with updated share links" || echo "No changes to commit"
           git push
