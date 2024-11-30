@@ -19,8 +19,8 @@ jobs:
           # 遍历所有 .txt 和 .json 文件，替换文件内容中的 https://raw.githubusercontent.com 前缀
           find . -type f \( -iname "*.txt" -o -iname "*.json" \) | while read -r file; do
             echo "Processing file: $file"
-            # 使用 sed 替换文件中的 https://raw.githubusercontent.com 前缀，保留https://ghp.ci/https://raw.githubusercontent.com
-            sed -i 's|https://[^/]*https://raw.githubusercontent.com|https://ghp.ci/https://raw.githubusercontent.com|g' "$file"
+            # 使用 sed 替换文件中的所有 https://raw.githubusercontent.com 前缀，完全替换为 https://ghp.ci/https://raw.githubusercontent.com
+            sed -i 's|https://[^ ]*raw.githubusercontent.com|https://ghp.ci/https://raw.githubusercontent.com|g' "$file"
           done
 
       - name: Commit and Push Changes
