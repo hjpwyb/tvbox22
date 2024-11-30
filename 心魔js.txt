@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/心魔js.jar",
+{"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/心魔js.jar",
  "sites":[
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/好趣网.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/drpy.js"},

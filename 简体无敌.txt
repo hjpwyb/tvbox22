@@ -1,9 +1,9 @@
 {
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/简体无敌.jar",
+"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/简体无敌.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/drpy.js"},
-{"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+{"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]🔎","type":3,"api":"drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/ikanbotsq.js"},
 {"key":"农民","name":"💬評分 農民(简体)","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看(简体)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://agit.ai/dlee2008/sqspot/raw/branch/main/t.jar"},

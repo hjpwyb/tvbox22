@@ -126,8 +126,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+            "api": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
         },
        
        

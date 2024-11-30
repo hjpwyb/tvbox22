@@ -86,7 +86,7 @@
 {"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
 ]}]}],
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/棋牌.jar",
+"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/棋牌.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[

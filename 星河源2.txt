@@ -1950,5 +1950,5 @@
   ],
   "wallpaper": "https://tool.weetai.cn/api",
   "warningText": "防止失效 关注公众号:《蚂蚁的日常》,接口免费整理维护",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/星河源2.jar"
+  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/星河源2.jar"
 }

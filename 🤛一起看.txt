@@ -1,17 +1,17 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤛一起看.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤛一起看.jar",
     "lives": [
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "url": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
             "playerType": 2
         },
         {
             "name": "嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u"
+            "url": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/xiutan.m3u"
         }
     ],
     "sites": [
@@ -329,7 +329,7 @@
             "key": "bili_open",
             "name": "哔哩貓",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {

@@ -1235,7 +1235,7 @@
         }
     ],
     "lives": [{"name": "live","type": 0,"url": "http://qrh.yimkj.cn/直播源.php","playerType": 1,"ua": "okhttp/4.18","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/阿里专线.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/阿里专线.jar",
     "wallpaper": "http://sx.liuyun.wang:88/bizhi.php",
     "doh": [
         {

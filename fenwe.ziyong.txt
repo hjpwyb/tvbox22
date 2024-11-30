@@ -1755,7 +1755,7 @@
             "quickSearch": 0
         }
    ],
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/fenwe.ziyong.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/fenwe.ziyong.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {

@@ -285,7 +285,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
 		},
 		{
 			"key": "haiwaikan",
@@ -528,7 +528,7 @@
 				"name": "Json",
 				"type": 1,
 				"playerType": 1,
-				"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+				"url": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png",
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"

@@ -1,5 +1,5 @@
 {
-"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/可爱熊猫.jar",
+"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/可爱熊猫.jar",
 "lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "sites":[
@@ -8,21 +8,21 @@
       "key": "js豆瓣",
       "name": "🐼┃豆瓣┃【关注公众号：熊猫不叫猫】🐼",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/douban.js"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/douban.js"
     },
-{"key":"csp_Nmys","name":"🐼时光┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/nmys.json"},
+{"key":"csp_Nmys","name":"🐼时光┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/nmys.json"},
         {
             "key": "南瓜",
             "name": "🐼时光┃南瓜",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/南瓜.js",
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/南瓜.js",
             "changeable": 0
         },
         {"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -34,8 +34,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/乐猪.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/乐猪.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/好戏影视.json"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/好戏影视.json"
     },
         {
       "key": "csp_KungFu404",
@@ -55,7 +55,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/jar/alibaba.jar"
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/jar/alibaba.jar"
     },
 {"key":"玩偶哥哥","name":"🐼时光|玩偶哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
   {
@@ -99,7 +99,7 @@
             "key": "龟龟",
             "name": "🐼时光┃龟龟",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -127,7 +127,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "1",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "站名": "黑狐影院",
@@ -166,7 +166,7 @@
             "key": "土豪",
             "name": "🐼时光┃土豪",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
@@ -188,7 +188,7 @@
             "key": "夜幕",
             "name": "🐼时光┃夜夜",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": "1",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
@@ -245,7 +245,7 @@
             "key": "看看",
             "name": "🐼时光┃看看",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "playerType": "1",
             "changeable": 0,
             "api": "csp_XBPQ",
@@ -270,7 +270,7 @@
             "key": "双黄",
             "name": "🐼时光┃双黄",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "嗅探词": "v3-dy-o.zjcdn#.m3u8#",
@@ -287,7 +287,7 @@
             "key": "莱米",
             "name": "🐼时光┃莱米",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "playerType": "2",
             "ext": {
@@ -320,7 +320,7 @@
             "key": "夜幕",
             "name": "🐼时光┃夜夜",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -355,7 +355,7 @@
             "key": "csp_XBPQ_JOJO",
             "name": "🐼时光┃JOJO",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -378,7 +378,7 @@
             "key": "滋滋",
             "name": "🐼时光┃子子",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "playerType": "1",
             "ext": {
@@ -413,7 +413,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "ext": {
                 "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
                 "分类": "电影&剧集&动漫&综艺",
@@ -438,7 +438,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "1",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "ext": {
         "主页url": "https://www.sstv.pw/",      
         "数组": "class=\"top&&</li",
@@ -475,7 +475,7 @@
             "key": "臭蛋",
             "name": "🐼时光┃臭蛋",
             "type": 3,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+            "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://cddys.vip/",
@@ -534,7 +534,7 @@
       "name": "🐼时光┃落落",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/5.jar;md5;c570b052645834a1109b54421c1552f9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -647,11 +647,11 @@
             "key": "js_czsapp",
             "name": "🐼时光┃厂长备用",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpymin2.js",
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpymin2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/czspp.js"
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/czspp.js"
         },
     {
       "key": "新浪资源",
@@ -722,7 +722,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"看看剧","name":"🐼时光┃花漾","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/看看剧.json"},
+{"key":"看看剧","name":"🐼时光┃花漾","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/看看剧.json"},
 {"key":"lgz_徕米","name":"🐼时光┃徕米","type":3,"api":"XBPQ","ext":"免嗅:1,分类:电视剧$dianshiju#电影$dianying#综艺$zongyi#少儿$shaoer#动漫$dongman,分类url:https://www.laimitv.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"YQK_spider","name":"🐼时光┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://hk-api-cf.yqk5659.com"},
 {"key":"爱迪","name":"🐼时光┃爱迪","type":3,"api":"csp_AppYsV2","playerType":"2","ext":"https://api123.adys.app/xgapp.php/v3/","searchable":1,"quickSearch":1,"filterable":1},
@@ -748,15 +748,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/qiuxia.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/qiuxia.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "gym",
       "name": "🐼时光┃光影",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
       "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
@@ -918,7 +918,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/lf_ikanbot3_min.js"
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/lf_ikanbot3_min.js"
     },
     {
       "key": "csp_xpath_yinfans",
@@ -928,7 +928,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/音范丝.json"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/音范丝.json"
     },
     {
       "key": "csp_XYQHikerdyx",
@@ -938,8 +938,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/电影港.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/电影港.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "快车资源",
@@ -1045,7 +1045,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/小暴脾气10.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/小暴脾气10.jar;md5;2045faa2c4337fd863c1b9f02cc69e31",
       "ext": {
         "站名": "夜光影院",
         "主页url": "https://www.ygpvp.com/",
@@ -1080,8 +1080,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/COKEMV影院.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/COKEMV影院.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "MGT",
@@ -1112,7 +1112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/dadagui.json"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/dadagui.json"
     },
     {
       "key": "VIP影院",
@@ -1122,7 +1122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/VIP影视.json"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/VIP影视.json"
     },
 
 
@@ -1134,8 +1134,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/aikanyngyuan.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/aikanyngyuan.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_爱看影院",
@@ -1145,8 +1145,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/aikanyingshi.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/aikanyingshi.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_星辰影院",
@@ -1156,8 +1156,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/星辰影院.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/星辰影院.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_疯狗影院",
@@ -1167,8 +1167,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/疯狗影视.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/疯狗影视.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -1178,8 +1178,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/锐行加速影院.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/锐行加速影院.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_奇趣影院",
@@ -1189,8 +1189,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/奇趣影视.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/奇趣影视.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_极客影院",
@@ -1200,8 +1200,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/极客影院.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/极客影院.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -1211,8 +1211,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/电影牛影院.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/电影牛影院.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "H_中国蓝光网",
@@ -1221,8 +1221,8 @@
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/中国蓝光网.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/中国蓝光网.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "csp_XYQHiker_一龙高清影院",
@@ -1232,8 +1232,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/一龙高清影视.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/一龙高清影视.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
     {
       "key": "蓝光影院",
@@ -1243,8 +1243,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/languang.json",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/languang.json",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
   {
     "key": "天空影院",
@@ -1298,25 +1298,25 @@
       "key": "drpy_js_腾云驾雾",
       "name": "🐼时光┃腾讯",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/腾云驾雾.js",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/腾云驾雾.js",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "🐼时光┃芒果",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/百忙无果.js",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/百忙无果.js",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "🐼时光┃搜狗",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/菜狗.js",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/菜狗.js",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/02.jar"
     },
     {
       "key": "csp_appysv2_开乐TV",
@@ -1365,7 +1365,7 @@
     {
       "key": "csp_New6v",
       "name": "🐼时光┃磁力6V",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/custom_spider.jar",
+      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/custom_spider.jar",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -1373,8 +1373,8 @@
       "filterable": 1,
       "ext": "https://www.66ss.org"
     },
-{"key": "csp_XYQHikerAL_4KHDR","name": "🐼时光┃盘磁4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/4KHDR.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
-{"key": "csp_XYQHiker_‍dyx","name": "🐼时光┃宙磁","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/dyg.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
+{"key": "csp_XYQHikerAL_4KHDR","name": "🐼时光┃盘磁4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/4KHDR.json","jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
+{"key": "csp_XYQHiker_‍dyx","name": "🐼时光┃宙磁","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/dyg.json","jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
         {
             "key": "drpy_js_榜单荐片4",

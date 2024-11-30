@@ -3,7 +3,7 @@
 //http://xiaoguozitv.cn/catys/zyplay.json
 
 {
- //"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/海风爱腾.jar",   
+ //"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/海风爱腾.jar",   
 //"spider":"https://4kal.netlify.app/x/jar/pig.cpa",
 //"spider": "https://gitea.com/52670576/tvbox/raw/branch/master/YSC.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
 //"spider":"https://4kal.netlify.app/tvbox/jar/xyq.jar",

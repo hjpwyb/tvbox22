@@ -1,6 +1,6 @@
 
 {
- "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e",
+ "spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e",
      
      "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTAzemgudHh0"]}]}],
      
@@ -21,7 +21,7 @@
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      "ext": "https://ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
     },
     {
       "key": "泥巴",

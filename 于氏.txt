@@ -2,7 +2,7 @@
 
 {
 
-"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/于氏.jar",
+"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/于氏.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlamluYW4vYXBwL3Jhdy9icmFuY2gvYm94L3R2L2xpdmUudHh0"]}]}],
 

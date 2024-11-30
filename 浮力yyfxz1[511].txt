@@ -550,7 +550,7 @@
       "filterable": 0
     }
   ],
-"lives":[{"name":"太阳","type":0,"url":"https://raw.githubusercontent.com/lllyin/assets/master/打开电视看电视.png"}],
+"lives":[{"name":"太阳","type":0,"url":"https://ghp.ci/https://raw.githubusercontent.com/lllyin/assets/master/打开电视看电视.png"}],
   "parses": [
     {
       "name": "解析聚合",
@@ -1361,5 +1361,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-  "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/浮力yyfxz1[511].jar"
+  "spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/浮力yyfxz1[511].jar"
 }

@@ -1,6 +1,6 @@
 //网络收集接口，请勿传播，贩卖
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/星辰仓库.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/星辰仓库.jar",
     "wallpaper": "https://tool.weetai.cn/api",
     "lives": [
         {
@@ -126,8 +126,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+            "api": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
         },
        
        

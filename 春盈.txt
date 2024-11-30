@@ -49,9 +49,9 @@
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
         },
-        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
+        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 
 //=========================================================
 {

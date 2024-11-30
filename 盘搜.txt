@@ -1,5 +1,5 @@
 {
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/盘搜.jar",
+"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/盘搜.jar",
 "wallpaper":"",
 "sites":[  
   {"key":"DouDou","name":"豆瓣┃评分","type":3,"api":"csp_DouDou","searchable":0,"changeable":0},
@@ -116,7 +116,7 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt", 
+            "url":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt", 
             "playerType": 1
         }
   ],

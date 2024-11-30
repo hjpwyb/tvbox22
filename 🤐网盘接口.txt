@@ -2,7 +2,7 @@
 //配置方法：打开软件-设置-配置地址-粘帖此配置地址-返回主页完成
 //本接口免费使用，仅供软件测试使用，请勿商业用途。
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤐网盘接口.jar",
+  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤐网盘接口.jar",
   "wallpaper": "https://tv.jinenyy.vip",
   "sites": [
     {

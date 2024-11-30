@@ -2,7 +2,7 @@
 
 {
 "wallpaper":"http://tv.nxog.top/m/t/",
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/欧歌.jar","warningText":"公众号欧歌app提示:
+"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/欧歌.jar","warningText":"公众号欧歌app提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 

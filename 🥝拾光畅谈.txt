@@ -1,11 +1,11 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥝拾光畅谈.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥝拾光畅谈.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
  "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/lives/live.txt",
+            "url": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/lives/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
@@ -27,7 +27,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/alibaba.jar"
+      "jar": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/alibaba.jar"
     },
         {
             "key": "ext_live_protocol",

@@ -932,7 +932,7 @@
       "key": "drpy_js_首播影院",
       "name": "👌┃首播┃2K",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/%E9%A6%96%E6%92%AD.js"
     },
     {
@@ -1791,7 +1791,7 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/影音天堂.jar",
+  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/影音天堂.jar",
   "lives": [
     {
       "name": "live",

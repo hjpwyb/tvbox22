@@ -327,5 +327,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://maoyingshi.cc/api.php",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/美食专线.jar"
+  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/美食专线.jar"
 }

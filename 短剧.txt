@@ -581,6 +581,6 @@
 
 "wallpaper":"https://imgapi.cn/api.php",
  "warningText":"星河提醒你，随便白嫖。",
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/短剧.jar"}
+"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/短剧.jar"}
 
 

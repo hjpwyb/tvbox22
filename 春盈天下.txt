@@ -8,7 +8,7 @@
 //本接口无公众号、无盈利、无引流、免费分享给小白测试和学习使用，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>
 
 {
- "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/春盈天下.jar",
+ "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/春盈天下.jar",
 
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
 
@@ -601,9 +601,9 @@
             "searchable": 1,
             "changeable": 1
         },
-        {"key":"drpy_js_奇珍异兽","name":"👉春盈┃奇珍[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"👉春盈┃优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"👉春盈┃腾云[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
+        {"key":"drpy_js_奇珍异兽","name":"👉春盈┃奇珍[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"👉春盈┃优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"👉春盈┃腾云[js]","type":3,"api":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
 
 //=========================================================
 {

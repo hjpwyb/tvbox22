@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/大卫来袭.jar",
+    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/大卫来袭.jar",
     "lives": [
         {
             "name": "tvlive",
@@ -271,7 +271,7 @@
             "key": "bili_open",
             "name": "哔哩貓",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {

@@ -1,5 +1,5 @@
 {
-"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/公众号-蚂蚁的日常.jar",//第1包
+"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/公众号-蚂蚁的日常.jar",//第1包
  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",//第2包
 "spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar",//第3包
 "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;6811778873C4CEAEEE0B6B14F5939F94",//测试包
@@ -11,8 +11,8 @@
             "key": "drpy_js_豆瓣",
             "name": "公众号-蚂蚁的日常",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
         },
 { "key": "横版影院", "name": "💚主力源", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ], "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
  { "key": "短剧网", "name": "🍎备用源一", "type": 3, "api": "csp_Duanjuw", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277" },
@@ -975,7 +975,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"
+            "jar": "https://github.moeyy.xyz/https://ghp.ci/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar"
     },
 {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
@@ -1841,32 +1841,32 @@
             "key": "drpy_js_奇珍异兽",
             "name": "🎖爱奇艺｜2k",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
         },
 
         {
             "key": "drpy_js_优酷",
             "name": "🎖优酷｜2k",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
         },
     {"key":"量子","name":"🎖量子｜2k","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
         {
             "key": "drpy_js_腾云驾雾",
             "name": "🎖腾讯｜2k",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
         },
     {"key":"独播","name":"🎖独播｜2k","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/duboku.json"},
         {
             "key": "drpy_js_百忙无果",
             "name": "🎖芒果｜2k",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+            "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
         },
     {"key":"暴風","name":"🎖暴風｜2k","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
         {
