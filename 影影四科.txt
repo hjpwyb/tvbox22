@@ -1160,7 +1160,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/影影四科.jar",
+	"spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/影影四科.jar",
 	"parses": [
 	    {"name":"Json并发","type":2,"url":"Parallel"},
 	    {"name":"解析聚合","type":3,"url":"Demo"},
@@ -1170,7 +1170,7 @@
     {
       "name": "live2",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/1245410/Luck/main/live.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/1245410/Luck/main/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"

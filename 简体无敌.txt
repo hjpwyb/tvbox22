@@ -1,5 +1,5 @@
 {
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/简体无敌.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/简体无敌.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"drpy2.min.js","ext":"https://agit.ai/dlee2008/sqspot/raw/branch/main/js/drpy.js"},

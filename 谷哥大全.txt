@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/谷哥大全.jar",
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/谷哥大全.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
@@ -217,8 +217,8 @@
       "key": "畅梦",
       "name": "🦄畅梦",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/drpy2.min.js",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
     },
     {
       "key": "js_v2-jy",

@@ -584,5 +584,5 @@
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "感谢使用",
-  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥦精品.jar"
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥦精品.jar"
 }

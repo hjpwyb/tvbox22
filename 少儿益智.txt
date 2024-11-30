@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/少儿益智.jar",
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/少儿益智.jar",
   "sites": [
     {
       "key": "drpy_js_ddys",

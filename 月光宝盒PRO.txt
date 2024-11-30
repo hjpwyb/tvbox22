@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/月光宝盒Pro.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/月光宝盒Pro.jar",
 
 "lives":[
 
@@ -843,7 +843,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/h/88k.js"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/h/88k.js"
         },
         {
             "key": "drpy_js_JRKAN直播",

@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/儿童大全.jar",
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/儿童大全.jar",
     "sites": [
         {
             "key": "腾讯1",

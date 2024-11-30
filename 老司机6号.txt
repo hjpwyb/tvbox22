@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/老司机6号.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/老司机6号.jar",
 
 "lives":[
 

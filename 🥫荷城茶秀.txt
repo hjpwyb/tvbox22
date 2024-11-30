@@ -1,8 +1,8 @@
 {
 
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥫荷城茶秀.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥫荷城茶秀.jar",
 
-//"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥫荷城茶秀.jar",
+//"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🥫荷城茶秀.jar",
 
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 

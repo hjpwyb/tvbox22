@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤶教育专线.jar",
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/🤶教育专线.jar",
     "lives": [
         {
           "name": "直播",

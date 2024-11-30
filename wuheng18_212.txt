@@ -3,19 +3,19 @@
 
     {
       "wallpaper": "https://picsum.photos/1080/",
-      "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/wuheng18_212.jar",
+      "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/wuheng18_212.jar",
       "sites": [ 
 
     {
       "key":"Alist",
       "name":"💖欢乐影视💖",
       "type":3,
-      "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/j/alist.min.js",
+      "api":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/j/alist.min.js",
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a/alist.json",
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/custom_spider_tang.jar;md5;7B3DB472894CC021C4B19DAA26E1282A"
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a/alist.json",
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/custom_spider_tang.jar;md5;7B3DB472894CC021C4B19DAA26E1282A"
     },
     {
       "key": "青苹果",
@@ -25,7 +25,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
     }, 
     {
       "key":"红苹果",
@@ -35,7 +35,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg102.jar;md5;bc95d810af9fab60c0781280ba56d6b1"
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xpg102.jar;md5;bc95d810af9fab60c0781280ba56d6b1"
     },
     {
       "key":"csp_sp_龙门影视",
@@ -45,7 +45,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"  
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"  
     },
     {
       "key":"BuLei",
@@ -54,7 +54,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/布蕾蓝光.jar;md5;E8F444CDA5A3FE0F21B31DB313E93753"
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/布蕾蓝光.jar;md5;E8F444CDA5A3FE0F21B31DB313E93753"
     },
     {
       "key":"csp_Xinsj",
@@ -64,7 +64,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/新视觉.jar;md5;270DBFA23C76AFCA73CD7E5D1430F23C"
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/新视觉.jar;md5;270DBFA23C76AFCA73CD7E5D1430F23C"
     },
     {
       "key":"快看",
@@ -73,7 +73,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"
     },
     {
       "key":"csp_xBPQ_爱看",
@@ -83,8 +83,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/json/爱看影视.json",
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8"
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/json/爱看影视.json",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8"
     },
     {
       "key":"csp_Lgyy",
@@ -94,7 +94,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8" 
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/pytv23-1-8.jar;md5;C61F498A7180535A9F6D09830A9444D8" 
     },
     {
       "key":"csp_Yht",
@@ -105,7 +105,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://yehetang.cc",
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"csp_Cokemv",
@@ -115,7 +115,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"csp_fantuan",
@@ -126,7 +126,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://www.fantuanhd.com",
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"csp_sp_360影视",
@@ -137,7 +137,7 @@
       "quickSearch":1,
       "searchable":1,
       "ext":"",
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
     },
     {
       "key":"csp_sp_腾讯视频",
@@ -147,7 +147,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
     },
     {
       "key":"csp_sp_奇艺视频",
@@ -157,7 +157,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
     },
     {
       "key":"csp_sp_芒果视频",
@@ -167,7 +167,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
     },
     {
       "key":"cps_xp_优酷视频",
@@ -178,63 +178,63 @@
       "quickSearch":0,
       "filterable":0,
       "categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片"],
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a"
     },
     {
       "key" : "drpy_js_酷云77",
       "name" : "👒酷云77[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/酷云77.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/酷云77.js"
     },
     {
       "key" : "drpy_js_乐猪TV",
       "name" : "🐷乐猪TV[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/乐猪TV.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/乐猪TV.js"
     },
     {
       "key" : "drpy_js_优酷",
       "name" : "👑优酷[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/优酷.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/优酷.js"
     },
     {
       "key" : "drpy_js_360影视",
       "name" : "🥎360影视[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/360影视.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/360影视.js"
     },
     {
       "key" : "drpy_js_百忙无果",
       "name" : "🥭百忙无果[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/百忙无果.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/百忙无果.js"
     },
     {
       "key" : "drpy_js_奇珍异兽",
       "name" : "🍨奇珍异兽[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/奇珍异兽.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/奇珍异兽.js"
     },
     {
       "key" : "drpy_js_腾云驾雾",
       "name" : "🦄腾云驾雾[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/腾云驾雾.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/腾云驾雾.js"
     },
     {
       "key" : "drpy_js_爱看电影",
       "name" : "📸爱看电影[DRPY]",
       "type" : 3,
-      "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/爱看电影.js"
+      "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/爱看电影.js"
     },
     {
       "key": "py_kunyu77",
@@ -244,7 +244,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_kunyu77.py"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_kunyu77.py"
     },
     {
       "key": "py_lezhu",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_lezhu.py"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_lezhu.py"
     },
     {
       "key" : "py_bilimd",
@@ -264,7 +264,7 @@
       "searchable" : 1,
       "quickSearch" : 1,
       "filterable" : 1,
-      "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_bilimd.py"
+      "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_bilimd.py"
     },
     {
       "key":"csp_Anime1",
@@ -274,7 +274,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"csp_Dm84",
@@ -284,7 +284,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"Ying",
@@ -294,7 +294,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key":"Ysj",
@@ -304,7 +304,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/20230221.jar;md5;0EE6A355EED48ECA223BFAA7D3B25B19"
     },
     {
       "key": "py_alist",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_alist.py"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/py/py_alist.py"
     },
     {
       "key":"csp_AList0a",
@@ -327,8 +327,8 @@
       "jumpDetail":0,
       "reversePlay":0,
       "enable":1,
-      "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist.json",
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile2.jar;md5;FE325993A7A775E29DB0FA35ADD5787D"
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist.json",
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile2.jar;md5;FE325993A7A775E29DB0FA35ADD5787D"
     },
     {
       "key":"csp_Alist0b",
@@ -341,8 +341,8 @@
       "jumpDetail":0,
       "reversePlay":0,
       "enable":1,
-      "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist1.json",
-      "jar":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile.jar;md5;6A090957BA13E25AC84C8AB6A87F6F22"
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a2/Alist1.json",
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/Yoursmile.jar;md5;6A090957BA13E25AC84C8AB6A87F6F22"
     },
     {
       "key": "csp_Alist",
@@ -352,7 +352,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a1/Alist.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/a1/Alist.json"
     },
     {
       "key": "csp_SP360",
@@ -362,7 +362,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key":"*91麻豆",
@@ -371,7 +371,7 @@
       "api":"https://91md.me/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key": "麻豆视频",
@@ -381,7 +381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "(18+)环亚资源",
@@ -391,7 +391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "(18+)速度资源",
@@ -401,7 +401,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "ms4nii",
@@ -411,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "KxrbspE",
@@ -421,7 +421,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "gdlsE",
@@ -431,7 +431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "kxgav",
@@ -441,7 +441,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "afasu",
@@ -451,7 +451,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "KpgxdyE",
@@ -461,7 +461,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "ap4i156dlyE",
@@ -471,7 +471,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "*丝袜资源",
@@ -481,7 +481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "一本道资源",
@@ -491,7 +491,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "日本AV在线",
@@ -501,7 +501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "影库资源",
@@ -511,7 +511,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key":"*影库资源",
@@ -520,7 +520,7 @@
       "api":"https://api.ykapi.net/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key": "屌丝",
@@ -530,7 +530,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "CK资源",
@@ -540,7 +540,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "点点娱乐",
@@ -550,7 +550,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "色屌丝资源",
@@ -560,7 +560,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "zp157",
@@ -570,7 +570,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "zp116",
@@ -580,7 +580,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "玖玖资源",
@@ -590,7 +590,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "利来资源",
@@ -600,7 +600,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "鲍鱼AV",
@@ -610,7 +610,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "青青草视频",
@@ -620,7 +620,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "亚洲成人在线",
@@ -630,7 +630,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "花魁资源",
@@ -640,7 +640,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "夜夜撸资源",
@@ -650,7 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "AV集中淫",
@@ -660,7 +660,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "黄瓜TV资源",
@@ -670,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "大香蕉资源",
@@ -680,7 +680,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "我要啪啪",
@@ -690,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "大屌丝资源",
@@ -700,7 +700,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "水蜜桃",
@@ -710,7 +710,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key": "zp011",  
@@ -720,7 +720,7 @@
       "searchable": 1,
       "quickSearch": 1,  
       "filterable":0 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"*酷豆资源",
@@ -729,7 +729,7 @@
       "api":"https://kudouzy.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"*酷豆2",
@@ -738,7 +738,7 @@
       "api":"https://api.kdapi.info/api.php/provide/vod/",
       "searchable":0,
       "quickSearch":0 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"*酷伦理",
@@ -747,7 +747,7 @@
       "api":"https://api.kudian70.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     { 
       "key": "(18+)JAV名优", 
@@ -757,7 +757,7 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 0 ,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67" 
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67" 
     },
     {
       "key":"环",
@@ -767,7 +767,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"狼",
@@ -775,7 +775,7 @@
       "type":0,
       "api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "playUrl":"","categories":[],"quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"乐",
@@ -785,7 +785,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"J",
@@ -795,7 +795,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"S",
@@ -805,7 +805,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"速",
@@ -816,7 +816,7 @@
       "categories":[],
       "quickSearch":0,
       "searchable":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"天",
@@ -826,7 +826,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"番",
@@ -836,7 +836,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"玖",
@@ -846,7 +846,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"秀",
@@ -856,7 +856,7 @@
       "playUrl":"",
       "categories":[],
       "quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key":"*精工厂资源",
@@ -864,7 +864,7 @@
       "type":0,
       "api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
       "searchable":0,"quickSearch":0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67"
     },
     {
       "key": "KK写真资源",
@@ -874,73 +874,73 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/jar/xiong.jar;md5;C17533A3FCCEC34E500601DE4F89D3AF"
     },
     {
       "key":"drpy_js_猫了个咪",
       "name":"🔞🈲🈲猫了个咪[DRPY18]",
       "type":3,
-      "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/猫了个咪.js"
+      "api":"https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+      "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/猫了个咪.js"
    },
    {
      "key":"drpy_js_吸瓜",
      "name":"🔞🈲🈲吸瓜[DRPY18]",
      "type":3,
-     "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/吸瓜.js"
+     "api":"https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/吸瓜.js"
    },
    {
      "key":"drpy_js_黄瓜TV",
      "name":"🔞🈲🈲黄瓜TV[DRPY18]",
      "type":3,
-     "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/黄瓜TV.js"
+     "api":"https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/黄瓜TV.js"
    },
    {
      "key":"drpy_js_banan",
      "name":"🔞🈲🈲banan[DRPY18]",
      "type":3,
-     "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/banan.js"
+     "api":"https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/banan.js"
    },
    {
      "key":"drpy_js_18av",
      "name":"🔞🈲🈲18av[DRPY18]",
      "type":3,
-     "api":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/18av.js"
+     "api":"https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext":"https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/18av.js"
    },
    {
      "key": "drpy_js_养端",
      "name": "🔞🈲养端（DRPY）",
      "type": 3,
-     "api": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "api": "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/养端.js"
+     "ext": "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/养端.js"
    },
    {
      "key" : "drpy_js_玩偶姐姐",
      "name" : "🔞🈲玩偶姐姐[DRPY18]",
      "type" : 3,
-     "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/玩偶姐姐.js"
+     "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/玩偶姐姐.js"
    },
    {
      "key" : "drpy_js_朱古力",
      "name" : "🔞🈲朱古力[DRPY18]",
      "type" : 3,
-     "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/朱古力.js"
+     "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/朱古力.js"
    },
    {
      "key" : "drpy_js_Missav",
      "name" : "🔞🈲Missav[DRPY18]",
      "type" : 3,
-     "api" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-     "ext" : "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/Missav.js"
+     "api" : "https://ghp.ci/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+     "ext" : "https://ghp.ci/https://raw.githubusercontent.com/wuheng18/zy/master/js/Missav.js"
    }
   ],
   "lives": [

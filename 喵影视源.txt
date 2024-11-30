@@ -172,7 +172,7 @@
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"}],
     
-  "spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/喵影视源.jar",
+  "spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/喵影视源.jar",
   
   "wallpaper":"http://tool.teyonds.com/api",
 

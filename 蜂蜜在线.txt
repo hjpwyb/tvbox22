@@ -1,11 +1,11 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/蜂蜜在线.jar",
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/蜂蜜在线.jar",
   	"lives": [{
 		"name": "直播",
 		"type": 0,
 		"playerType": 1,
 		"boot": false,
-		"url": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
+		"url": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
 	}],
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [

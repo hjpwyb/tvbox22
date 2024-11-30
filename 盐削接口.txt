@@ -1,5 +1,5 @@
 {
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/盐削接口.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/盐削接口.jar",
 
 //"wallpaper":"https://9xi4o.tk/TVB/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",

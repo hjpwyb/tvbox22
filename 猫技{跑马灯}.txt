@@ -743,5 +743,5 @@
         }
     ],
   "wallpaper": "https://img.n13.club/",
-  "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/猫技{跑马灯}.jar"
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/猫技{跑马灯}.jar"
 }

@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/ABC无敌.jar",
+	"spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/ABC无敌.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[

@@ -1,6 +1,6 @@
 
 {
-	"spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/壹梦接口.jar",
+	"spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/壹梦接口.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
@@ -110,8 +110,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
-            "ext": "https://gh.con.sh/https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/api/drpy2.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/xmbjm/vip/main/js/jp.js"
         },
 //{"key": "玩我哥哥","name":"玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/玩我哥哥.json"},
 //{"key": "玩偶哥哥","name":"玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.zte-cid.com:9999/yimeng/ym/lib/玩偶哥哥.json"},

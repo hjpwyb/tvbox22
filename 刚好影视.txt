@@ -1,6 +1,6 @@
 {
 
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/刚好影视.jar",
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/刚好影视.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3h1dHYuaHouY3ovemIvMzE5emIudHh0"]}]}],
 "flags": ["youku","qq","iqiyi","qiyi", "letv","sohu","tudou","pptv","mgtv", "wasu","bilibili","miaoparty2","longteng","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","xueren",
 "miaoparty","ziqie","m1905","ddzy","xigua","1920l","muxm3u8","duoduozy","xfyun","dengta","tudou"],

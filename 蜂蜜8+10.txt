@@ -1755,7 +1755,7 @@
             "quickSearch": 0
         }
    ],
-    "spider": "https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/蜂蜜8+10.jar",
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/蜂蜜8+10.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {

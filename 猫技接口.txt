@@ -489,5 +489,5 @@
   ],
 
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php","warningText":"更多资源关注公众号猫技",
-"spider":"https://mirror.ghproxy.com/https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/猫技接口.jar"   
+"spider":"https://ghp.ci/https://raw.githubusercontent.com/fish2018/tvbox/master/jar/猫技接口.jar"   
 }
