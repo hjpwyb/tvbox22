@@ -1,0 +1,36 @@
+name: Generate Share Links for TXT and JSON Files
+
+on:
+  push:
+    branches:
+      - main  # 触发工作流的分支
+  workflow_dispatch:  # 允许手动触发工作流
+
+jobs:
+  generate-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Get File List from GitHub Repository
+        id: get_files
+        run: |
+          # 使用 GitHub API 获取文件列表
+          curl -s "https://api.github.com/repos/hjpwyb/tvbox22/contents?ref=main" | jq '[.[] | select(.name | test("\\.txt$|\\.json$")) | {name: .name, url: .download_url}]' > file_urls.json
+
+      - name: Create all.json with Share Links
+        run: |
+          # 创建 all.json 文件，格式为所需的结构
+          echo '{"urls":' > all.json
+          cat file_urls.json >> all.json
+          echo '}' >> all.json
+
+      - name: Commit and Push all.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add all.json
+          git commit -m "Generate all.json with share links for TXT and JSON files" || echo "No changes to commit"
+          git push
